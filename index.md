@@ -17,6 +17,7 @@ The model satellite and ground station was powered by an Arduino MEGA based driv
 The satellite launch was done in E1A Area, Faculty of Engineering, National University of Singapore.   
 
 ![Launch 1](https://dl.dropboxusercontent.com/s/jw1r98i1tkrcszt/satbal5.jpg?dl=0)
+
 ![Launch 2](https://dl.dropboxusercontent.com/s/ehqg6ftr01wdm78/satbal4.jpg?dl=0)
 
 This project is part of EG1310 [Exploratory Satellite Design](http://www.eng.nus.edu.sg/edic/about.html) (Satellite System Design Track) module at the National University of Singapore.   
